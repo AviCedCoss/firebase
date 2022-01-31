@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "13455078325",
+    "project_id": "cedcoss-ca083",
+    "storage_bucket": "cedcoss-ca083.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13455078325:android:ce1df9b567bac8fe83dffc",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13455078325-ck1emj2en5uof199kcb2qff9tpf305sn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase",
+            "certificate_hash": "16e4b00c26ea020ff6396b86709b05383312e0e0"
+          }
+        },
+        {
+          "client_id": "13455078325-0c3b68tol2pkr58rfab3mjo3c8a14m2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD20-qU8_oxu2yazbkGTXe_7lw7AZrDDoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13455078325-0c3b68tol2pkr58rfab3mjo3c8a14m2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
